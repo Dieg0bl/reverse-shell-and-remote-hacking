@@ -119,7 +119,7 @@ Con el script ejecutándose en Windows, ya puedes enviar comandos desde Kali a t
 
 - **Cambiar de directorio:**:
     ```bash
-    tasklist
+    cd
     ```
 - **Crear un archivo o directorio:**:
     ```bash

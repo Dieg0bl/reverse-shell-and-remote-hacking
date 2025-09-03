@@ -1,12 +1,12 @@
 <!-- hide -->
 # Windows CMD Commands for Remote Hacking
 
-> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/commands-for-remote-hacking/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/Dieg0bl/reverse-shell-and-remote-hacking/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*These instructions are also [available in Spanish](https://github.com/breatheco-de/reverse-shell-and-remote-hacking/blob/main/README.es.md)*
+*These instructions are also [available in Spanish](https://github.com/Dieg0bl/reverse-shell-and-remote-hacking/blob/main/README.es.md)*
 
 ### Before you start...
 

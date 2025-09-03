@@ -8,8 +8,8 @@
         "us": "Learn how to execute one of the most popular hacks on Windows: The Reverse Shell, and also learn to execute basic and administrative Windows commands remotely through a reverse shell, simulating a hacking attack from Kali Linux to Windows 10.",
         "es": "Aprende uno de los metodos mas comunes para evadir firewalls: La shell inversa, tambien aprende cómo ejecutar comandos básicos y administrativos de Windows de forma remota a través de una reverse shell, simulando un ataque de hacking desde Kali Linux hacia Windows 10."
     },
-    "preview": "https://github.com/breatheco-de/reverse-shell-and-remote-hacking/blob/main/assets/preview.jpg?raw=true",
-    "repository": "https://github.com/breatheco-de/reverse-shell-and-remote-hacking",
+    "preview": "https://github.com/Dieg0bl/reverse-shell-and-remote-hacking/blob/main/assets/preview.jpg?raw=true",
+    "repository": "https://github.com/Dieg0bl/reverse-shell-and-remote-hacking",
     "duration": 2,
     "projectType": "project",
     "difficulty": "intermediate",
